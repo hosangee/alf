@@ -1,0 +1,4 @@
+db:
+    url: "mongodb://localhost/alf"
+http:
+    bind: "0.0.0.0:8080"
